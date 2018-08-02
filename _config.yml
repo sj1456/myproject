@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Veronica Yan"
-  avatar           : "/images/book3.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Analyst/ Science"
+  name             :  "Veronica Yan"
+  avatar           :  "/images/book3.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              :  "Data Analyst/ Science"
   location         :
   email            :
   uri              :
@@ -119,7 +119,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "yitingyan90" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  "yitingyan90" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -273,7 +273,7 @@ defaults:
 # _pages
 - scope:
     path: ""
-    type: pages
+    type:  pages
   values:
-    layout: single
-    author_profile: true
+    layout:  single
+    author_profile:  true
